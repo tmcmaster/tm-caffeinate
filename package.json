@@ -3,7 +3,8 @@
   "description": "Polymer component for stopping screensaver and screen lock functionality.",
   "main": "tm-caffeinate.js",
   "dependencies": {
-    "@polymer/polymer": "^3.0.0"
+    "@polymer/polymer": "^3.0.0",
+    "nosleep.js": "^0.7.0"
   },
   "devDependencies": {
     "@polymer/iron-demo-helpers": "^3.0.0-pre.19",

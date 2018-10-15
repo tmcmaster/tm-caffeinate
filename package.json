@@ -3,6 +3,7 @@
   "description": "Polymer component for stopping screensaver and screen lock functionality.",
   "main": "tm-caffeinate.js",
   "dependencies": {
+    "@polymer/paper-toggle-button": "github:PolymerElements/paper-toggle-button",
     "@polymer/polymer": "^3.0.0",
     "nosleep.js": "^0.7.0"
   },
